@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rohan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
 - 🌱 Pursuing Bachelor of Technology from Delhi Technological University(DTU)
 <!--- 📫 How to reach me ...-->
 
