@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohan
-- 👀 Frontend web developer
+- 👀 Web developer
 - 🌱 Pursuing Bachelor of Technology in Information Technology from Delhi Technological University(DTU)
 - 📫 We can get in touch at- 
     - https://www.linkedin.com/in/sharmarohan01/ 
